@@ -26,7 +26,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dragamer5643&show_icons=true&locale=en&layout=compact" alt="dragamer5643" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dragamer5643&show_icons=true&locale=en" alt="dragamer5643" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dragamer5643&" alt="dragamer5643" /></p>
-
