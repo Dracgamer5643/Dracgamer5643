@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Patil</h1>
-<h3 align="center">A passionate Frontend-Developer, Website-Developer, Python-Developer, Database-Developer, MySql and Java Development from India.</h3>
+<h3 align="center">A passionate Data Scientist, Full Stack Developer, Python-Developer, Machine Learning/Deep Learning Dev and Java Dev from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragamer5643&label=Profile%20views&color=0e75b6&style=flat" alt="dragamer5643" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Django Framework and Data Analysis Using Python**
 
-- 👨‍💻 All of my projects are available at [https://adiweeb.netlify.app/](https://adiweeb.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://adiweeb.netlify.app/](https://addywebb.netlify.app/)
 
-- 💬 Ask me about **python, java, c and Website Development**
+- 💬 Ask me about **Data Science, ML, AI, Python, Java, C and Full Stack Web Development**
 
-- 📫 How to reach me **supermee5643@gmail.com**
+- 📫 How to reach me **adipatil04@gmail.com**
 
 - ⚡ Fun fact **I think I am Batman**
 
